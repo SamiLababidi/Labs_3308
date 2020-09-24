@@ -1,0 +1,82 @@
+Sep 23 20:34:35 sami-VirtualBox kernel: [    0.784231] RAS: Correctable [01;31m[KError[m[Ks collector initialized.
+Sep 23 20:34:35 sami-VirtualBox systemd[1]: Condition check resulted in Process [01;31m[Kerror[m[K reports when automatic reporting is enabled (file watch) being skipped.
+Sep 23 20:34:35 sami-VirtualBox kernel: [    2.197800] EXT4-fs (sda5): re-mounted. Opts: [01;31m[Kerror[m[Ks=remount-ro
+Sep 23 20:34:35 sami-VirtualBox kernel: [    2.430578] [drm:vmw_host_log [vmwgfx]] *[01;31m[KERROR[m[K* Failed to send host log message.
+Sep 23 20:34:35 sami-VirtualBox kernel: [    2.432034] [drm:vmw_host_log [vmwgfx]] *[01;31m[KERROR[m[K* Failed to send host log message.
+Sep 23 20:34:36 sami-VirtualBox thermald[478]: [WARN][01;31m[Kerror[m[K: could not parse file /etc/thermald/thermal-conf.xml
+Sep 23 20:34:36 sami-VirtualBox thermald[478]: [WARN][01;31m[Kerror[m[K: could not parse file /etc/thermald/thermal-conf.xml
+Sep 23 20:34:36 sami-VirtualBox thermald[478]: [WARN][01;31m[Kerror[m[K: could not parse file /etc/thermald/thermal-conf.xml
+Sep 23 20:34:36 sami-VirtualBox snapd[471]: helpers.go:105: [01;31m[Kerror[m[K trying to compare the snap system key: system-key missing on disk
+Sep 23 20:34:38 sami-VirtualBox NetworkManager[443]: <warn>  [1600914878.9532] [01;31m[KError[m[K: failed to open /run/network/ifstate
+Sep 23 20:34:39 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:34:40 sami-VirtualBox /usr/lib/gdm3/gdm-x-session[679]: #011(WW) warning, (EE) [01;31m[Kerror[m[K, (NI) not implemented, (??) unknown.
+Sep 23 20:34:41 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:34:45 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:34:49 sami-VirtualBox gnome-session-c[904]: [01;31m[KError[m[K creating FIFO: File exists
+Sep 23 20:34:49 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:34:50 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:34:53 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:35:05 sami-VirtualBox pulseaudio[651]: GetManagedObjects() failed: org.freedesktop.DBus.[01;31m[KError[m[K.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 23 20:35:07 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:35:24 sami-VirtualBox gnome-shell[1006]: [01;31m[KError[m[K looking up permission: GDBus.[01;31m[KError[m[K:org.freedesktop.portal.[01;31m[KError[m[K.NotFound: No entry for geolocation
+Sep 23 20:35:25 sami-VirtualBox snap[569]: [01;31m[Kerror[m[K: cannot communicate with server: timeout exceeded while waiting for response
+Sep 23 20:35:40 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:35:43 sami-VirtualBox gnome-shell[1006]: Gio.IO[01;31m[KError[m[KEnum: [01;31m[KError[m[K calling StartServiceByName for org.freedesktop.FileManager1: Timeout was reached
+Sep 23 20:36:29 sami-VirtualBox gnome-shell[1006]: [01;31m[KError[m[K connecting to Nautilus
+Sep 23 20:36:43 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:37:04 sami-VirtualBox update-notifier.desktop[1876]: WARNING:root:[01;31m[KError[m[K loading .desktop file /usr/share/applications/evolution-calendar.desktop: constructor returned NULL
+Sep 23 20:38:51 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:43:07 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:48:07 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:53:07 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:58:07 sami-VirtualBox systemd-resolved[408]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:58:52 sami-VirtualBox xdg-desktop-por[932]: xdg-desktop-portal-gtk: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox gnome-shell[1006]: gnome-shell: Fatal IO [01;31m[Kerror[m[K 0 (Success) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox [1158]: gsd-keyboard: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox gsd-color[1151]: gsd-color: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox [1162]: gsd-power: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox [1160]: gsd-media-keys: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox [1182]: gsd-wacom: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox gsd-xsettings[1193]: gsd-xsettings: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox update-notifier[1528]: update-notifier: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:58:52 sami-VirtualBox evolution-alarm[1189]: evolution-alarm-notify: Fatal IO [01;31m[Kerror[m[K 11 (Resource temporarily unavailable) on X server :0.
+Sep 23 20:59:11 sami-VirtualBox kernel: [    0.630099] RAS: Correctable [01;31m[KError[m[Ks collector initialized.
+Sep 23 20:59:11 sami-VirtualBox kernel: [    1.783606] EXT4-fs (sda5): re-mounted. Opts: [01;31m[Kerror[m[Ks=remount-ro
+Sep 23 20:59:11 sami-VirtualBox kernel: [    1.946641] [drm:vmw_host_log [vmwgfx]] *[01;31m[KERROR[m[K* Failed to send host log message.
+Sep 23 20:59:11 sami-VirtualBox kernel: [    1.947969] [drm:vmw_host_log [vmwgfx]] *[01;31m[KERROR[m[K* Failed to send host log message.
+Sep 23 20:59:11 sami-VirtualBox systemd[1]: Condition check resulted in Process [01;31m[Kerror[m[K reports when automatic reporting is enabled (file watch) being skipped.
+Sep 23 20:59:11 sami-VirtualBox thermald[517]: [WARN][01;31m[Kerror[m[K: could not parse file /etc/thermald/thermal-conf.xml
+Sep 23 20:59:11 sami-VirtualBox thermald[517]: [WARN][01;31m[Kerror[m[K: could not parse file /etc/thermald/thermal-conf.xml
+Sep 23 20:59:11 sami-VirtualBox thermald[517]: [WARN][01;31m[Kerror[m[K: could not parse file /etc/thermald/thermal-conf.xml
+Sep 23 20:59:13 sami-VirtualBox NetworkManager[480]: <warn>  [1600916353.2714] [01;31m[KError[m[K: failed to open /run/network/ifstate
+Sep 23 20:59:13 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:59:14 sami-VirtualBox /usr/lib/gdm3/gdm-x-session[683]: #011(WW) warning, (EE) [01;31m[Kerror[m[K, (NI) not implemented, (??) unknown.
+Sep 23 20:59:15 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:59:18 sami-VirtualBox gnome-session-c[957]: [01;31m[KError[m[K creating FIFO: File exists
+Sep 23 20:59:19 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:59:23 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:59:23 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:59:27 sami-VirtualBox gnome-shell[1003]: [01;31m[KError[m[K looking up permission: GDBus.[01;31m[KError[m[K:org.freedesktop.portal.[01;31m[KError[m[K.NotFound: No entry for geolocation
+Sep 23 20:59:27 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 20:59:40 sami-VirtualBox pulseaudio[654]: GetManagedObjects() failed: org.freedesktop.DBus.[01;31m[KError[m[K.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 23 20:59:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:00:15 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:01:19 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:03:27 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:07:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:12:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:17:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:27:43 sami-VirtualBox systemd-resolved[438]: message repeated 2 times: [ Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 23 21:32:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:37:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:42:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:47:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:52:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 21:57:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 22:02:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 22:07:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 22:12:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 22:17:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 22:22:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 22:27:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 23 22:32:43 sami-VirtualBox systemd-resolved[438]: Server returned [01;31m[Kerror[m[K NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
