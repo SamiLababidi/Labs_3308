@@ -236,9 +236,9 @@ app.get('/player_info', function(req, res) {
 })
 
 app.get('/player_info/post', function(req, res) {
-  var player_id = req.body.player_choice;
+  var player_id = req.query.player_choice;
   var players = 'select * from football_players;';
-  var player_info = `select * from football_players where id = ${player_id}`;
+  var player_info = `select * from football_players where id = ${player_id};`;
   var total_number_of_games = `select count(g.*) from football_games g, 
                               (select id from football_players where id = ${player_id}) p 
                               where p.id = any(g.players);`; // this query will retrieve that total number of games for the selected player
@@ -250,16 +250,16 @@ app.get('/player_info/post', function(req, res) {
             task.any(total_number_of_games)
         ]);
     })
-        .then(function (rows) {
+        .then(info => {
             res.render('pages/player_info',{
         my_title: "Football Player Page",
         data: info[0],
-        player: info[1],
+        player: info[1][0],
         num_of_games: info[2][0].count
       })
 
         })
-        .catch(function (err) {
+        .catch( err => {
             console.log('error', err);
             res.render('pages/player_info', {
                 my_title: 'Football Player Pagef',
